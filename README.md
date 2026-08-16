@@ -1,6 +1,6 @@
 # Hi, I'm Maryam Arif 👋
 
-🎓 **BS Artificial Intelligence Student** at **HITEC University, Taxila**
+🎓 **5th Semester BS Artificial Intelligence Student** at **HITEC University, Taxila**
 💻 Passionate about **Artificial Intelligence, Machine Learning, Software Development & Web Development**
 
 ## 🌱 About Me
